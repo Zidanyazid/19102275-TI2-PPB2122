@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practice5</string>
+    <string name="btn_prodi">Bawa Data Prodi Ke Activity Lain</string>
+    <string name="input_prodi">Input Prodi</string>
+    <string name="btn_call_browser">Buka Browser</string>
+    <string name="btn_call_camera">Buka Kamera</string>
+    <string name="input_phone_number">Masukan Nomor Handphone</string>
+    <string name="btn_call_phone">Telepon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_nama">Masukan Nama</string>
+    <string name="input_nim">Masukan NIM</string>
+    <string name="btn_to_second_fragment">Buka Fragment Kedua</string>
+    <string name="fragment_first">Fragment Pertama</string>
+    <string name="btn_fragment">Buka Fragment</string>
+    <string name="fragment_second">Fragment Kedua</string>
+    <string name="btn_kembali_beranda">Beranda</string>
+</resources>
