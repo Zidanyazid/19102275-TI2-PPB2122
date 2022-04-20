@@ -16,3 +16,4 @@ rootProject.name = "MyProject"
 include ':app'
 include ':LifecycleApp'
 include ':Practice5'
+include ':practice6'
