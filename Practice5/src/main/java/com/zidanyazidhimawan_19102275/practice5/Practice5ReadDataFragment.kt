@@ -2,7 +2,7 @@ package com.zidanyazidhimawan_19102275.practice5
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.v4.app.Fragment
+import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -18,7 +18,7 @@ private const val ARG_PARAM2 = "param2"
  * Use the [Practice5ReadDataFragment.newInstance] factory method to
  * create an instance of this fragment.
  */
-class Practice5ReadDataFragment : Fragment() {
+class Practice5ReadDataFragment : androidx.fragment.app.Fragment() {
 
     var nim: Int? = null
     companion object {

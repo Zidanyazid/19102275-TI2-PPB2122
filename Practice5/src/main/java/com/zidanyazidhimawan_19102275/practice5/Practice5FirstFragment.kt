@@ -1,8 +1,8 @@
 package com.zidanyazidhimawan_19102275.practice5
 
 import android.os.Bundle
-import android.support.v4.app.Fragment
-import android.support.v4.app.FragmentManager
+import androidx.fragment.app.Fragment
+import androidx.fragment.app.FragmentManager
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
@@ -19,7 +19,7 @@ private const val ARG_PARAM2 = "param2"
  * Use the [Practice5FirstFragment.newInstance] factory method to
  * create an instance of this fragment.
  */
-class Practice5FirstFragment : Fragment() {
+class Practice5FirstFragment : androidx.fragment.app.Fragment() {
     // TODO: Rename and change types of parameters
     private var param1: String? = null
     private var param2: String? = null
@@ -42,7 +42,7 @@ class Practice5FirstFragment : Fragment() {
             mBundle.putString(Practice5ReadDataFragment.EXTRA_NAMA, namaSaya)
             mReadDataFragment.arguments = mBundle
             mReadDataFragment.nim = nimSaya.toInt()
-            val mFragmentManager = fragmentManager as FragmentManager
+            val mFragmentManager = fragmentManager as androidx.fragment.app.FragmentManager
             mFragmentManager
                 .beginTransaction()
                 .replace(R.id.frame_container, mReadDataFragment, Practice5ReadDataFragment::class.java.simpleName)

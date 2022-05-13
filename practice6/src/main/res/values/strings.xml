@@ -2,6 +2,9 @@
     <string name="app_name">Practice6</string>
     <string name="name">name</string>
     <string name="description">description</string>
+    <string name="tampil_list">tampil_list</string>
+    <string name="tampil_grid">tampil_grid</string>
+    <string name="tampil_card_view">tampil_card_view</string>
     <string-array name="data_name">
         <item>Wisata Pagubugan</item>
         <item>The Village Purwokerto</item>
@@ -15,7 +18,7 @@
     Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga aman buat
     si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD yang berkunjung. Dan
     yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.</item>
-        <item>Berlokasi tak terlalu jauh dengan pusat kota Purwokerto, The Village hadir dengan gaya unik
+            <item>Berlokasi tak terlalu jauh dengan pusat kota Purwokerto, The Village hadir dengan gaya unik
     khas perkampungan Eropa. Bangunan tinggi besar menyerupai kastil dengan dinding bata langs ung
     mencuri perhatian begitu melangkahkan kaki ke sini. Ada beragam aktivitas yang bisa Anda lakukan di
     sini: naik perahu mengitari kanal buatan di sekitar taman rekreasi, memberi makan aneka binatang

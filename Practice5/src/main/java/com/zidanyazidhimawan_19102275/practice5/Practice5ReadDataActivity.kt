@@ -1,6 +1,6 @@
 package com.zidanyazidhimawan_19102275.practice5
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_practice5_read_data.*
 
