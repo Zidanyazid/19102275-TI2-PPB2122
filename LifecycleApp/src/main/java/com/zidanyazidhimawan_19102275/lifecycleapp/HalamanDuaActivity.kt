@@ -1,9 +1,9 @@
 package com.zidanyazidhimawan_19102275.lifecycleapp
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 
 class HalamanDuaActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
