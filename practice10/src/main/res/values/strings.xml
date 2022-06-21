@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practice10</string>
+    <string name="title">title</string>
+    <string name="category">category</string>
+    <string name="description">description</string>
+    <string name="date">date</string>
+    <string name="submit">submit</string>
+    <string name="delete">delete</string>
+    <string name="nama">nama</string>
+    <string name="nim">nim</string>
+</resources>
